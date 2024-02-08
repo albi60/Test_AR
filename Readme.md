@@ -1,1 +1,1 @@
-[open this example](https://albi60.github.io/.github/profile/Test_AR/index.html)
+[open this example](https://github.com/albi60/Test_AR/blob/main/)

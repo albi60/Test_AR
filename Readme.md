@@ -1,1 +1,1 @@
-[open this example](https://ar-js-org.github.io/.github/profile/aframe/examples/marker-based/basic.html) 
+[open this example](https://github.com/albi60/Test_AR/blob/main/rialto_test.html)
